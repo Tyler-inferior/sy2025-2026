@@ -1,0 +1,22 @@
+﻿What our project will do:
+Our project will take the scraped data from the website and give you the option to pick a genre. After you pick a genre, it will display the books, along with their prices, ratings, and other information. It will also display it from the best-rated book to the lowest-rated book.
+
+
+Fields required:
+* Title of genre
+* Title of books within the genre
+* Price of said books
+* Star rating 
+* Books left in stock
+* The UPC
+* 1-sentence summary of said books
+
+
+
+
+Definition of done:
+1. The app will give you pick the genre and direct you to the books there
+2. It will give you the books within the genre in order of star rating
+3. It will then let you select the book you want, and will give you the price of the book and how many are left in stock 
+4. If you want further information on said book, you can get a 1-sentence summary and the UPC
+5. It should then redirect you to the actual site to buy the book
